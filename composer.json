@@ -1,0 +1,17 @@
+{
+    "name": "larapack",
+    "type": "project",
+    "description": "Laravel startup kit.",
+    "keywords": [
+        "framework",
+        "laravel",
+        "larapack",
+        "laravel startup"
+    ],
+    "license": "MIT",
+    "version": "1.0.0",
+    "require": {
+        "laravel/laravel": "^10.0",
+        "barryvdh/laravel-debugbar": "^5.0"
+    }
+}
